@@ -91,7 +91,7 @@ Open **http://127.0.0.1:5173**
 | Durga Ravichandra Malisetty | Project Lead / FAQ Curation |
 | Aira Bhaima Shrestha | QA / Model Integration |
 | Asif Ansari | Presentation Lead |
-| Huy Lam Nguyen | React UI / UX Flow |
+| Huy Lam Nguyen | Software Engineer |
 | Joanna Trautman | Presentation Design |
 | Manindra Reddy Bhavanam | Python Implementation |
 | Sinza Shrestha | Documentation Lead |
