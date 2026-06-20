@@ -40,8 +40,8 @@ class ChatResponse(BaseModel):
 
 
 app = FastAPI(
-    title="University Student Support Chatbot API",
-    description="RAG-powered university FAQ assistant",
+    title="Helios Institution Student Support Chatbot API",
+    description="RAG-powered Helios Institution FAQ assistant",
     version="0.1.0",
 )
 

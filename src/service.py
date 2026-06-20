@@ -43,7 +43,7 @@ class ChatService:
 
         if not message.strip():
             return {
-                "answer": "Please enter a university-related question.",
+                "answer": "Please enter a Helios Institution-related question.",
                 "sources": [],
             }
 

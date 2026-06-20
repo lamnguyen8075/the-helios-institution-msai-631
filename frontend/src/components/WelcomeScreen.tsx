@@ -28,12 +28,12 @@ export function WelcomeScreen({ examples, onSelect, disabled }: WelcomeScreenPro
         </div>
 
         <h1 className="text-4xl font-bold tracking-tight md:text-5xl">
-          <span className="gradient-text">Campus answers,</span>
+          <span className="gradient-text">Helios answers,</span>
           <br />
           instantly.
         </h1>
         <p className="mx-auto mt-4 max-w-lg text-base leading-relaxed text-ink-500">
-          Your personal university assistant for admissions, aid, scholarships,
+          Your personal Helios Institution assistant for admissions, aid, scholarships,
           and student services — grounded in real FAQ data.
         </p>
       </div>

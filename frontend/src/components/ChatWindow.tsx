@@ -93,8 +93,8 @@ export function ChatWindow({ examples }: ChatWindowProps) {
         <div className="flex items-center gap-3">
           <BrandLogo className="h-9 w-9 rounded-xl" />
           <div>
-            <p className="text-sm font-bold text-ink-900">Campus AI</p>
-            <p className="text-xs text-ink-500">University Support</p>
+            <p className="text-sm font-bold text-ink-900">Helios Institution</p>
+            <p className="text-xs text-ink-500">Student Support AI</p>
           </div>
         </div>
 
@@ -145,7 +145,7 @@ export function ChatWindow({ examples }: ChatWindowProps) {
               }
             }}
             rows={1}
-            placeholder="Ask anything about your university..."
+            placeholder="Ask anything about Helios Institution..."
             className="max-h-[120px] min-h-[28px] flex-1 resize-none bg-transparent text-[15px] leading-6 text-ink-900 outline-none placeholder:text-ink-500"
           />
 
@@ -160,7 +160,7 @@ export function ChatWindow({ examples }: ChatWindowProps) {
         </form>
 
         <p className="mx-auto mt-3 max-w-3xl text-center text-xs text-ink-500">
-          Powered by open-source AI · Answers grounded in university FAQs
+          Powered by open-source AI · Answers grounded in Helios Institution FAQs
         </p>
       </div>
     </div>

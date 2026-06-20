@@ -1,4 +1,4 @@
-University Student Support Chatbot - QA Test Cases
+Helios Institution Student Support Chatbot - QA Test Cases
 ==================================================
 
 Test 1: Admissions requirements

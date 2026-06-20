@@ -279,7 +279,7 @@ HERO_HTML = """
   <h1 class="hero-title">Your campus questions, answered with care.</h1>
   <p class="hero-subtitle">
     A conversational guide for admissions, scholarships, enrollment, and student
-    services — grounded in university FAQs and powered by open-source AI.
+    services — grounded in Helios Institution FAQs and powered by open-source AI.
   </p>
   <div class="hero-badge-row">
     <span class="hero-badge">Admissions</span>

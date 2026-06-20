@@ -76,7 +76,7 @@ def build_interface() -> gr.Blocks:
     quick_buttons: list[gr.Button] = []
 
     with gr.Blocks(
-        title="University Student Support Chatbot",
+        title="Helios Institution Student Support Chatbot",
         theme=theme,
         css=CUSTOM_CSS,
     ) as demo:

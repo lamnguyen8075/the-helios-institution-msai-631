@@ -1,6 +1,16 @@
-# University Student Support Chatbot
+<h1 align="center">Helios Institution AI Assistant</h1>
 
-AI-powered university student support chatbot built for the MSAI-631 Human-Computer Interaction group project.
+<p align="center">
+  AI-powered student support chatbot for <strong>Helios Institution</strong>, built for the MSAI-631 Human-Computer Interaction group project.
+</p>
+
+<p align="center">
+  <img src="screenshots/welcome-screen.png" alt="Helios Institution welcome screen" width="900" />
+</p>
+
+<p align="center">
+  <img src="screenshots/chat-screen.png" alt="Helios Institution chat screen" width="900" />
+</p>
 
 The chatbot answers common student questions about admissions, academic programs, scholarships, financial aid, enrollment, and student services using retrieval-augmented generation (RAG) and a custom React interface.
 
@@ -24,7 +34,7 @@ MSAI-631-final/
 ├── pyproject.toml         # Python dependencies (uv)
 ├── frontend/              # React UI
 │   └── src/
-├── data/faq.json          # Curated university FAQ dataset
+├── data/faq.json          # Curated Helios Institution FAQ dataset
 └── src/
     ├── service.py         # Shared chat service
     ├── retriever.py       # RAG retrieval

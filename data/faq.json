@@ -7,7 +7,7 @@
   {
     "category": "Admissions",
     "question": "How do I apply for admission?",
-    "answer": "You can apply online through the university admissions portal. Create an account, complete the application form, upload required documents, and pay the application fee. Admissions staff will contact you once your application is reviewed."
+    "answer": "You can apply online through Helios Institution admissions portal. Create an account, complete the application form, upload required documents, and pay the application fee. Admissions staff will contact you once your application is reviewed."
   },
   {
     "category": "Admissions",
@@ -17,7 +17,7 @@
   {
     "category": "Academic Programs",
     "question": "What degree programs are offered?",
-    "answer": "The university offers undergraduate, graduate, and doctoral programs across fields including business, education, information technology, psychology, and health sciences. Visit the academics section of the university website for a full program catalog."
+    "answer": "Helios Institution offers undergraduate, graduate, and doctoral programs across fields including business, education, information technology, psychology, and health sciences. Visit the academics section of Helios Institution website for a full program catalog."
   },
   {
     "category": "Academic Programs",
@@ -27,7 +27,7 @@
   {
     "category": "Scholarships",
     "question": "What scholarships are available?",
-    "answer": "The university offers merit-based scholarships, need-based grants, and program-specific awards. New students are automatically considered for merit scholarships upon admission. Additional scholarships require a separate application."
+    "answer": "Helios Institution offers merit-based scholarships, need-based grants, and program-specific awards. New students are automatically considered for merit scholarships upon admission. Additional scholarships require a separate application."
   },
   {
     "category": "Scholarships",
@@ -37,7 +37,7 @@
   {
     "category": "Financial Aid",
     "question": "How do I apply for financial aid?",
-    "answer": "Complete the FAFSA using the university school code. The financial aid office will generate a financial aid package based on your eligibility. Priority deadline for FAFSA submission is April 1."
+    "answer": "Complete the FAFSA using Helios Institution school code. The financial aid office will generate a financial aid package based on your eligibility. Priority deadline for FAFSA submission is April 1."
   },
   {
     "category": "Financial Aid",
@@ -65,7 +65,7 @@
     "answer": "Students can add or drop courses without penalty during the first week of the semester. After the add/drop period, withdrawing from a course may result in a W grade on your transcript. Exact dates are published in the academic calendar."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "Is on-campus housing available?",
     "answer": "On-campus housing is available for undergraduate students. Housing applications open in spring for the following academic year. Options include traditional dormitories and apartment-style residences."
   },
@@ -101,8 +101,8 @@
   },
   {
     "category": "Academic Programs",
-    "question": "What technology programs does the university offer?",
-    "answer": "The university offers technology-focused programs such as computer science, artificial intelligence, data science, cybersecurity, software engineering, cloud computing, robotics, and information technology."
+    "question": "What technology programs does Helios Institution offer?",
+    "answer": "Helios Institution offers technology-focused programs such as computer science, artificial intelligence, data science, cybersecurity, software engineering, cloud computing, robotics, and information technology."
   },
   {
     "category": "Academic Programs",
@@ -111,7 +111,7 @@
   },
   {
     "category": "Academic Programs",
-    "question": "Does the university offer online programs?",
+    "question": "Does Helios Institution offer online programs?",
     "answer": "Some programs may be offered fully online, while others are hybrid or campus-based. Students should review the program page for delivery format, residency requirements, and course availability."
   },
   {
@@ -215,27 +215,27 @@
     "answer": "Students should contact their instructor, academic advisor, tutoring services, or the student success center as early as possible."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How do I join student organizations?",
     "answer": "Students can browse student organizations through the campus life portal, attend involvement fairs, or contact organization leaders directly."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "Where can I find campus events?",
-    "answer": "Campus events are usually posted on the university events calendar, student life portal, newsletters, and official social media channels."
+    "answer": "Campus events are usually posted on Helios Institution events calendar, student life portal, newsletters, and official social media channels."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "Can commuter students participate in campus activities?",
     "answer": "Yes, commuter students are encouraged to join clubs, attend events, use campus services, and participate in leadership opportunities."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How do I reserve a room for a student event?",
     "answer": "Student organizations can usually reserve rooms through the campus scheduling system or student life office. Approval may be required."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "Are there leadership opportunities for students?",
     "answer": "Students can pursue leadership opportunities through student government, clubs, peer mentoring, residence life, ambassador programs, and campus employment."
   },
@@ -297,7 +297,7 @@
   {
     "category": "Technology Support",
     "question": "How do I connect to campus Wi-Fi?",
-    "answer": "Students should select the secure campus Wi-Fi network and log in with university credentials. Guests should use the guest network if available."
+    "answer": "Students should select the secure campus Wi-Fi network and log in with Helios Institution credentials. Guests should use the guest network if available."
   },
   {
     "category": "Technology Support",
@@ -306,7 +306,7 @@
   },
   {
     "category": "Technology Support",
-    "question": "Where can I download university software?",
+    "question": "Where can I download Helios Institution software?",
     "answer": "Approved software may be available through the IT services portal, virtual lab, app store, or department license page."
   },
   {
@@ -382,7 +382,7 @@
   {
     "category": "Billing",
     "question": "How do refunds work?",
-    "answer": "If payments and financial aid exceed charges, eligible students may receive a refund according to the university refund schedule. Direct deposit is usually the fastest option."
+    "answer": "If payments and financial aid exceed charges, eligible students may receive a refund according to Helios Institution refund schedule. Direct deposit is usually the fastest option."
   },
   {
     "category": "Billing",
@@ -392,7 +392,7 @@
   {
     "category": "Library",
     "question": "How do I access library databases?",
-    "answer": "Students can access library databases through the library website using university login credentials. Off-campus access may require authentication."
+    "answer": "Students can access library databases through the library website using Helios Institution login credentials. Off-campus access may require authentication."
   },
   {
     "category": "Library",
@@ -421,7 +421,7 @@
   },
   {
     "category": "Health and Wellness",
-    "question": "Does the university offer counseling?",
+    "question": "Does Helios Institution offer counseling?",
     "answer": "Counseling services may provide confidential support, workshops, crisis resources, and referrals. Students should contact counseling services for appointment availability."
   },
   {
@@ -442,7 +442,7 @@
   {
     "category": "Safety and Security",
     "question": "How do I contact campus safety?",
-    "answer": "Campus safety contact information is listed on the university website, student portal, ID card, and emergency signage. For immediate danger, call emergency services."
+    "answer": "Campus safety contact information is listed on Helios Institution website, student portal, ID card, and emergency signage. For immediate danger, call emergency services."
   },
   {
     "category": "Safety and Security",
@@ -476,7 +476,7 @@
   },
   {
     "category": "Parking and Transportation",
-    "question": "Does the university offer shuttle service?",
+    "question": "Does Helios Institution offer shuttle service?",
     "answer": "Some campuses provide shuttle routes between parking lots, residence halls, academic buildings, and nearby transit stops. Schedules are usually posted online."
   },
   {
@@ -490,29 +490,29 @@
     "answer": "First-year parking policies vary by university. Some campuses limit permits for first-year residential students due to space constraints."
   },
   {
-    "category": "AI Campus Assistant",
-    "question": "What can the campus AI assistant help me with?",
-    "answer": "The campus AI assistant can answer common questions about admissions, academics, registration, financial aid, student services, housing, campus life, technology support, and university processes."
+    "category": "Helios AI Assistant",
+    "question": "What can the Helios Institution AI assistant help me with?",
+    "answer": "The Helios Institution AI assistant can answer common questions about admissions, academics, registration, financial aid, student services, housing, campus life, technology support, and Helios Institution processes."
   },
   {
-    "category": "AI Campus Assistant",
+    "category": "Helios AI Assistant",
     "question": "Can the AI assistant access my private student record?",
-    "answer": "The AI assistant should only access private student information when integrated with approved university systems and when the student is authenticated."
+    "answer": "The AI assistant should only access private student information when integrated with approved Helios Institution systems and when the student is authenticated."
   },
   {
-    "category": "AI Campus Assistant",
+    "category": "Helios AI Assistant",
     "question": "What should I do if the AI assistant gives the wrong answer?",
-    "answer": "Students should verify important decisions with official university offices, especially for deadlines, financial aid, immigration, academic standing, and graduation requirements."
+    "answer": "Students should verify important decisions with official Helios Institution offices, especially for deadlines, financial aid, immigration, academic standing, and graduation requirements."
   },
   {
-    "category": "AI Campus Assistant",
+    "category": "Helios AI Assistant",
     "question": "Can I use the AI assistant for academic advising?",
     "answer": "The AI assistant can provide general guidance and help students prepare questions, but official degree planning and policy decisions should be confirmed with an academic advisor."
   },
   {
-    "category": "AI Campus Assistant",
+    "category": "Helios AI Assistant",
     "question": "Is my conversation with the AI assistant private?",
-    "answer": "Conversation privacy depends on university policy and system design. Students should avoid sharing unnecessary sensitive information and review the university's AI and data privacy notice."
+    "answer": "Conversation privacy depends on Helios Institution policy and system design. Students should avoid sharing unnecessary sensitive information and review Helios Institution's AI and data privacy notice."
   },
   {
     "category": "Admissions",
@@ -10372,102 +10372,102 @@
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Computer Science students?",
-    "answer": "Scholarships for Computer Science students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Computer Science students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Artificial Intelligence students?",
-    "answer": "Scholarships for Artificial Intelligence students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Artificial Intelligence students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Data Science students?",
-    "answer": "Scholarships for Data Science students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Data Science students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Cybersecurity students?",
-    "answer": "Scholarships for Cybersecurity students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Cybersecurity students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Software Engineering students?",
-    "answer": "Scholarships for Software Engineering students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Software Engineering students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Information Technology students?",
-    "answer": "Scholarships for Information Technology students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Information Technology students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Cloud Computing students?",
-    "answer": "Scholarships for Cloud Computing students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Cloud Computing students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Robotics students?",
-    "answer": "Scholarships for Robotics students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Robotics students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Computer Engineering students?",
-    "answer": "Scholarships for Computer Engineering students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Computer Engineering students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Business Analytics students?",
-    "answer": "Scholarships for Business Analytics students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Business Analytics students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Human-Computer Interaction students?",
-    "answer": "Scholarships for Human-Computer Interaction students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Human-Computer Interaction students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Finance students?",
-    "answer": "Scholarships for Finance students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Finance students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Marketing students?",
-    "answer": "Scholarships for Marketing students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Marketing students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Business Administration students?",
-    "answer": "Scholarships for Business Administration students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Business Administration students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Psychology students?",
-    "answer": "Scholarships for Psychology students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Psychology students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Education students?",
-    "answer": "Scholarships for Education students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Education students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Nursing students?",
-    "answer": "Scholarships for Nursing students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Nursing students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Public Health students?",
-    "answer": "Scholarships for Public Health students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Public Health students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Digital Media students?",
-    "answer": "Scholarships for Digital Media students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Digital Media students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Scholarships",
     "question": "Are there scholarships for Biotechnology students?",
-    "answer": "Scholarships for Biotechnology students may be available through the university, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
+    "answer": "Scholarships for Biotechnology students may be available through Helios Institution, academic department, donors, or external organizations. Students should review scholarship deadlines and eligibility requirements."
   },
   {
     "category": "Student Services",
@@ -10835,392 +10835,392 @@
     "answer": "International students should speak with international student services before starting any employment. CPT, OPT, and on-campus work rules depend on visa status, academic program, and authorization requirements."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can undergraduate students get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can undergraduate students get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can undergraduate students get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can undergraduate students get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can undergraduate students get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can undergraduate students get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can graduate students get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can graduate students get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can graduate students get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can graduate students get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can graduate students get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can graduate students get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can international students get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can international students get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can international students get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can international students get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can international students get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can international students get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can transfer students get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can transfer students get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can transfer students get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can transfer students get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can transfer students get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can transfer students get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can first-year students get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can first-year students get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can first-year students get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can first-year students get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can first-year students get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can first-year students get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can online students get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can online students get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can online students get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can online students get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can online students get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can online students get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can commuter students get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can commuter students get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can commuter students get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can commuter students get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can commuter students get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can commuter students get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can veteran students get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can veteran students get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can veteran students get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can veteran students get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can veteran students get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can veteran students get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can part-time students get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can part-time students get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can part-time students get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can part-time students get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can part-time students get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can part-time students get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can full-time students get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can full-time students get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can full-time students get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can full-time students get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can full-time students get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can full-time students get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students on academic probation get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students on academic probation get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students on academic probation get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students on academic probation get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students on academic probation get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students on academic probation get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students returning from leave get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students returning from leave get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students returning from leave get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students returning from leave get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students returning from leave get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students returning from leave get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students changing majors get involved during the fall semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students changing majors get involved during the spring semester?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students changing majors get involved during the summer session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students changing majors get involved during the winter session?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students changing majors get involved during the first week of class?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
   {
-    "category": "Campus Life",
+    "category": "Helios Campus Life",
     "question": "How can students changing majors get involved during the final exam week?",
     "answer": "Students can get involved by joining organizations, attending campus events, volunteering, participating in leadership programs, and connecting with student life staff."
   },
@@ -11732,7 +11732,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is AI lab access available to first-year students?",
-    "answer": "Availability of AI lab access for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of AI lab access for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11742,7 +11742,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is cloud computing credits available to first-year students?",
-    "answer": "Availability of cloud computing credits for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of cloud computing credits for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11752,7 +11752,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is GPU resources available to first-year students?",
-    "answer": "Availability of GPU resources for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of GPU resources for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11762,7 +11762,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is coding bootcamps available to first-year students?",
-    "answer": "Availability of coding bootcamps for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of coding bootcamps for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11772,7 +11772,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is hackathons available to first-year students?",
-    "answer": "Availability of hackathons for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of hackathons for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11782,7 +11782,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is startup incubator available to first-year students?",
-    "answer": "Availability of startup incubator for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of startup incubator for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11792,7 +11792,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is research assistant roles available to first-year students?",
-    "answer": "Availability of research assistant roles for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of research assistant roles for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11802,7 +11802,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is faculty research projects available to first-year students?",
-    "answer": "Availability of faculty research projects for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of faculty research projects for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11812,7 +11812,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is cybersecurity lab available to first-year students?",
-    "answer": "Availability of cybersecurity lab for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of cybersecurity lab for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11822,7 +11822,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is robotics lab available to first-year students?",
-    "answer": "Availability of robotics lab for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of robotics lab for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11832,7 +11832,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is data science competitions available to first-year students?",
-    "answer": "Availability of data science competitions for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of data science competitions for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11842,7 +11842,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is software licenses available to first-year students?",
-    "answer": "Availability of software licenses for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of software licenses for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11852,7 +11852,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is GitHub student tools available to first-year students?",
-    "answer": "Availability of GitHub student tools for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of GitHub student tools for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11862,7 +11862,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is portfolio projects available to first-year students?",
-    "answer": "Availability of portfolio projects for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of portfolio projects for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11872,7 +11872,7 @@
   {
     "category": "Technology and Innovation",
     "question": "Is technical interview preparation available to first-year students?",
-    "answer": "Availability of technical interview preparation for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of technical interview preparation for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   },
   {
     "category": "Technology and Innovation",
@@ -11882,6 +11882,6 @@
   {
     "category": "Technology and Innovation",
     "question": "Is industry mentor program available to first-year students?",
-    "answer": "Availability of industry mentor program for first-year students depends on university policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
+    "answer": "Availability of industry mentor program for first-year students depends on Helios Institution policy, course enrollment, safety requirements, and resource capacity. Students should contact the responsible department for eligibility details."
   }
 ]

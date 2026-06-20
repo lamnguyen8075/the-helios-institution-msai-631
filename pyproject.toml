@@ -1,7 +1,7 @@
 [project]
 name = "university-student-support-chatbot"
 version = "0.1.0"
-description = "AI-powered university student support chatbot with RAG and Gradio"
+description = "AI-powered Helios Institution student support chatbot with RAG and Gradio"
 readme = "README.md"
 requires-python = ">=3.11,<3.13"
 dependencies = [

@@ -4,13 +4,13 @@ from src.retriever import FAQRetriever, RetrievedChunk
 
 
 FALLBACK_MESSAGE = (
-    "I could not find a confident answer in the university FAQ. "
+    "I could not find a confident answer in the Helios Institution FAQ. "
     "Please try rephrasing your question or contact the admissions "
     "or student services office directly."
 )
 
 SYSTEM_PROMPT = (
-    "You are a helpful university student support assistant. "
+    "You are a helpful Helios Institution student support assistant. "
     "Answer using only the provided FAQ context. "
     "If the context does not contain the answer, say you do not know. "
     "Keep responses concise, friendly, and accurate."
@@ -45,7 +45,7 @@ class UniversityChatbot:
 
     def respond(self, user_message: str) -> tuple[str, list[RetrievedChunk]]:
         if not user_message.strip():
-            return "Please enter a university-related question.", []
+            return "Please enter a Helios Institution-related question.", []
 
         chunks = self.retriever.retrieve(user_message)
 

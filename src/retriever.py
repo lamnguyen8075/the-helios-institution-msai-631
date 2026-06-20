@@ -87,7 +87,7 @@ class FAQRetriever:
     @staticmethod
     def format_context(chunks: list[RetrievedChunk]) -> str:
         if not chunks:
-            return "No relevant university information was found."
+            return "No relevant Helios Institution information was found."
 
         lines = []
         for chunk in chunks:
