@@ -1,0 +1,35 @@
+[project]
+name = "university-student-support-chatbot"
+version = "0.1.0"
+description = "AI-powered university student support chatbot with RAG and Gradio"
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "numpy<2",
+    "torch>=2.2.0,<2.3",
+    "transformers>=4.36.0,<5.0",
+    "gradio>=4.44.1,<5.0",
+    "fastapi>=0.112,<0.116",
+    "starlette>=0.37,<0.42",
+    "sentence-transformers>=2.2.0,<4.0",
+    "faiss-cpu>=1.7.4,<1.13",
+    "accelerate>=0.25.0",
+    "uvicorn>=0.30.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[tool.hatch.build.targets.wheel.force-include]
+"server.py" = "server.py"
+"data/faq.json" = "data/faq.json"
+
+[project.scripts]
+chatbot = "server:main"
+
+[tool.uv]
+package = true

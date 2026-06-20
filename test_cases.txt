@@ -1,0 +1,42 @@
+University Student Support Chatbot - QA Test Cases
+==================================================
+
+Test 1: Admissions requirements
+Input: What are the admission requirements?
+Expected: Mentions application, transcripts, and GPA requirements.
+
+Test 2: Application process
+Input: How do I apply for admission?
+Expected: Mentions online application portal and required documents.
+
+Test 3: Financial aid
+Input: How do I apply for financial aid?
+Expected: Mentions FAFSA and financial aid package.
+
+Test 4: Scholarships
+Input: When is the scholarship deadline?
+Expected: Mentions March 15 or directs to financial aid office.
+
+Test 5: Class registration
+Input: How do I register for classes?
+Expected: Mentions student portal and registration window.
+
+Test 6: Student services
+Input: What support services are available?
+Expected: Mentions advising, tutoring, career services, or counseling.
+
+Test 7: Out-of-scope query
+Input: What is the weather today?
+Expected: Fallback message indicating no confident FAQ match.
+
+Test 8: Rephrased question
+Input: Can I get help choosing my courses?
+Expected: Mentions academic advising or student support services.
+
+Test 9: International students
+Input: What do international students need for admission?
+Expected: Mentions English proficiency and visa-related requirements.
+
+Test 10: Source citation
+Input: What scholarships are available?
+Expected: Answer includes a Sources section with FAQ references.
