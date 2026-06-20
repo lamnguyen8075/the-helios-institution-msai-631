@@ -12,6 +12,10 @@
   <img src="screenshots/chat-screen.png" alt="Helios Institution chat screen" width="900" />
 </p>
 
+<p align="center">
+  <img src="screenshots/chat-conversation.png" alt="Helios Institution chat conversation with referenced topics" width="900" />
+</p>
+
 The chatbot answers common student questions about admissions, academic programs, scholarships, financial aid, enrollment, and student services using retrieval-augmented generation (RAG) and a custom React interface.
 
 ## Technologies
